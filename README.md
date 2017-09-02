@@ -9,5 +9,5 @@ Se admiten sugerencias, mejoras y cualquier contribución al proyecto que ayude 
 # Versiones
 
 - **TCC-V1-OAK-GENERAL**, para grupos generales.
-    - [🇪🇸 Español](./es/TCC-V1-OAK-GENERAL)
+    - [🇪🇸 Español](./es/TCC-V1-OAK-GENERAL.md)
     - 🇺🇸 Inglés
