@@ -11,3 +11,9 @@ Se admiten sugerencias, mejoras y cualquier contribución al proyecto que ayude 
 - **TCC-V1-OAK-GENERAL**, para grupos generales.
     - [🇪🇸 Español](./es/TCC-V1-OAK-GENERAL.md)
     - 🇺🇸 Inglés
+- **TCC-V1-OAK-COLOR**, para grupos de color.
+    - [🇪🇸 Español](./es/TCC-V1-OAK-COLOR.md)
+    - 🇺🇸 Inglés
+- **TCC-V1-OAK-RAID**, para grupos de incursiones.
+    - [🇪🇸 Español](./es/TCC-V1-OAK-RAID.md)
+    - 🇺🇸 Inglés
